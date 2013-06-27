@@ -1,0 +1,4 @@
+alignPaper
+==========
+
+automatic alignment paper
